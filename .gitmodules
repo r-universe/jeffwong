@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pdist"]
+	path = pdist
+	url = https://github.com/jeffwong/pdist
+	shallow = true
+	registered = true
+[submodule "TimeProjection"]
+	path = TimeProjection
+	url = https://github.com/jeffwong/timeprojection
+	shallow = true
+	registered = true

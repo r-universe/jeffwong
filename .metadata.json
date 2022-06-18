@@ -1,0 +1,10 @@
+[
+  {
+    "package": "pdist",
+    "oncran": true
+  },
+  {
+    "package": "TimeProjection",
+    "oncran": true
+  }
+]
