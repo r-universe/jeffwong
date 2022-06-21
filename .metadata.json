@@ -2,8 +2,5 @@
   {
     "package": "pdist",
     "oncran": true
-  },
-  {
-    "package": "TimeProjection"
   }
 ]
